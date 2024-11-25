@@ -1,0 +1,37 @@
+Infosys Hiring for iOS Developer!!
+
+Job Description: 
+
+Role: iOS Developer
+Experience: 2 - 7 Years
+Location: Mumbai,Maharashtra
+
+Required Technical Skill Set:
+
+1. iOS Development using Swift, SwiftUI, and Objective-C.
+
+2. Desired Competencies (Technical/Behavioral)
+
+Must Have:
+
+1. Expertise in developing, delivering, and maintaining mobile applications for iOS devices.
+
+2. Proficiency in improving code quality and maintainability by leveraging the latest technologies and development approaches.
+
+3. Knowledge of ensuring the mobile platform's safety, security, and compatibility with the latest devices and iOS versions.
+
+4. Ability to identify, diagnose, and resolve production issues efficiently.
+
+5. Strong understanding of scalable and maintainable solutions for mobile projects.
+
+Good to Have:
+
+1. Experience identifying opportunities for process and tool improvements, and executing their implementation.
+
+2. Strong communication skills to interact with clients about technical issues and the capabilities/limitations of iOS.
+
+Desired Candidate Profile:
+
+1. A team player with excellent problem-solving skills and a passion for staying updated with new iOS development trends.
+
+2. Qualifications: Bachelor's Degree in Computer Science, Engineering, or a related field.

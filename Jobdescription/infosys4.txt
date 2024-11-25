@@ -1,0 +1,47 @@
+Infosys Hiring for Software Engineering → Backend Development !!
+
+Job Description: 
+
+Role: Backend Developer
+Experience: 3 - 10 Years
+Location: Bangalore, Karnataka
+
+Required Technical Skill Set:
+
+Java, Spring Boot, Microservices, Data Structures, Algorithms, Desired Competencies (Technical/Behavioral Competency)
+
+Must Have:
+
+1. Strong hands-on experience in developing complex APIs using Spring Boot and Java.
+
+2. Expertise in designing and documenting APIs using Swagger and Open API standard.
+
+3. Proficiency in REST APIs and related aspects.
+
+4. Knowledge of Java Security concepts.
+
+5. Skilled in handling database interactions.
+
+6. Hands-on experience with CI/CD pipelines using Git, Jenkins, Bamboo, and other automation tools.
+
+7. Experience in cloud integration.
+
+Good to Have:
+
+1. Familiarity with secondary tools like DevOps, GitHub, Jenkins, and Bamboo.
+
+2. Desire and ability to work in a global delivery environment.
+
+Additional Information:
+
+Based on experience and technical evaluation, candidates will be positioned as Developer, Senior Developer, or Lead Developer.
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+
+
+
+
+
+

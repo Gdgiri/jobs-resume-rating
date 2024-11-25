@@ -1,0 +1,39 @@
+Infosys Hiring for Python Senior Developer !!
+
+Job Description: 
+
+Role: Python Senior Developer
+Experience: 3 - 5 Years
+Location: Pune,Maharashtra
+
+Required Technical Skill Set:
+
+ Python,  Django,  Flask,  Pandas,  NumPy, Pyramid, Desired Competencies (Technical/Behavioral Competency)
+
+Must Have:
+
+1. Writing scalable code using Python programming language.
+
+2. Knowledge of design principles and fundamentals of architecture.
+
+3. Ability to translate functional/non-functional requirements into system requirements.
+
+4. Ability to design and code complex programs.
+
+5. Ability to write test cases and scenarios based on specifications.
+
+6. Good understanding of Agile methodologies.
+
+7. Logical thinking and problem-solving skills.
+
+8. Awareness of the latest technologies and trends.
+
+9. Ability to collaborate effectively with team members.
+
+Good to Have:
+
+Basic understanding of project domain.
+
+Desired Candidate Profile:
+
+Qualifications: Relevant bachelor's or master's degree in a technical field.

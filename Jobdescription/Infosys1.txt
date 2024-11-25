@@ -1,0 +1,51 @@
+Infosys Hiring for MERN Stack Developer Role!!
+
+Job Description: 
+
+Role: MERN Stack Developer
+Experience: 5 - 6 Years
+Location: Bangalore,Karnataka
+
+Required Technical Skill Set:
+
+Node.js, React Native, Redux, Data Structures, SQL, Desired Competencies (Technical/Behavioral Competency)
+
+Must Have:
+
+1. Proficiency in React, Redux, Node.js, no-SQL databases, and AWS (or other cloud technologies).
+
+2. Expertise in Data Structures and Algorithms.
+
+3. Proficient with HTML, CSS, and frameworks like Sass, Less, and CSS3.
+
+4. Familiarity with UI libraries such as Bootstrap, Material UI, and Ant Design.
+
+5. Experience working with RESTful APIs.
+
+6. Knowledge of cloud services, serverless architecture, and microservices architecture.
+
+7. Ability to work independently and collaboratively with cross-functional teams.
+
+Good to Have:
+
+1. Prior experience in leading a team.
+
+2. Strong analytical and troubleshooting skills.
+
+3. Experience in handling customer queries and demonstrating product capabilities.
+
+4. Experience in the Agile SCRUM development process.
+
+Desired Candidate Profile:
+
+1. Bachelor's degree or higher in Computer Science, IT, or a related field.
+
+2. Excellent communication and interpersonal skills.
+
+3. Qualifications: Bachelor's Degree in Computer Science, IT, or a related discipline.
+
+
+
+
+
+

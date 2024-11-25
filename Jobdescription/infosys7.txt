@@ -1,0 +1,34 @@
+Infosys Hiring for Full Stack Developer Role!!
+
+Job Description
+
+Role: Full Stack Developer
+Experience: 0 - 2 Years
+Location: Chennai,TamilNadu
+
+Required Technical Skill Set:
+C#, .NET, VB.NET, MVC, .NET Core, JSON REST APIs/WCF, Dapper, Redis, CouchDB, MSSQL databases, Desired Competencies (Technical/Behavioral Competency)
+
+Must Have:
+
+1. Familiarity with enterprise-level .NET projects.
+
+2. Experience with cloud technologies such as AWS or Azure.
+
+3. Strong knowledge of database systems, including MSSQL, Redis, and CouchDB.
+
+4. Understanding of .NET frameworks, including .NET Core and MVC.
+
+Good to Have:
+
+1. Contributions to open-source projects or personal coding initiatives.
+
+2. Strong problem-solving skills and a collaborative mindset.
+
+Desired Candidate Profile:
+
+1. Bachelor’s degree in Computer Science, Information Technology, or a related field.
+
+2. Passion for coding and software development with a willingness to learn.
+
+3. Qualifications: Bachelor’s Degree in Computer Science, IT, or a related discipline.

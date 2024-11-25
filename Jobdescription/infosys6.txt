@@ -1,0 +1,43 @@
+Infosys Hiring for Software Engineering → Frontend Development !!
+
+Job Description: 
+
+Role: Frontend Developer
+Experience: 4 - 8 Years
+Location: Bangalore,Karnataka
+
+Required Technical Skill Set:
+
+Angular, JavaScript, HTML, CSS, Desired Competencies (Technical/Behavioral Competency)
+
+Must Have:
+
+1. Sound knowledge of Angular 6+ with hands-on experience.
+
+2.Proficient understanding of HTML5 and CSS3.
+
+3. Strong experience with JavaScript.
+
+4. Expertise in responsive design principles.
+
+5. Ability to take ownership of solutions from end to end, translating functional requirements effectively.
+
+6. Understanding of Jenkins and experience with automated deployments.
+
+7. Familiarity with unit testing tools like Jasmine/Karma.
+
+Good to Have:
+
+1. Understanding of containers and Docker.
+
+2. Ability to write Dockerfiles.
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+Infosys Hiring for Software Engineering → Frontend Development Role!!
+
+Job Description: 
+
+Role: Frontend Developer
+Experience: 0 - 1 Year
+Location: Hyderabad,Telungana
+
+Required Technical Skill Set:
+
+React.js, HTML, Node.js, CSS, Desired Competencies (Technical/Behavioral Competency)
+
+Must Have:
+
+1. Proficient understanding of web markup, including HTML5 and CSS3.
+
+2. Knowledge of server-side CSS pre-processing platforms like LESS and SASS.
+
+3. Familiarity with client-side scripting and JavaScript frameworks, including jQuery.
+
+4. Good understanding of advanced JavaScript libraries and frameworks, such as React.js.
+
+5. Ability to create self-contained, reusable, and testable modules and components.
+
+6. Strong debugging skills to validate user actions and provide responsive feedback.
+
+7. Proficient understanding of Git for version control.
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+
+
+
+
+

@@ -1,0 +1,36 @@
+Infosys Hiring for Software Engineering → Backend Development, Full-Stack Development Role!!
+
+Job Description:
+
+Role: Backend Developer / Full-Stack Developer
+Experience: 3 - 5 Years
+Location: Chennai,TamilNadu
+
+Required Technical Skill Set:
+
+.NET, SQL, ASP.NET Docker, Desired Competencies (Technical/Behavioral Competency)
+
+Must Have:
+
+1. Strong working experience with development in C#, .NET Core, .NET Framework, ASP.NET MVC, and ASP.NET Web API.
+
+2. Proficiency in writing and optimizing SQL Queries for performance and understanding RDBMS concepts (MS-SQL Server).
+
+3. Experience with Docker and AWS.
+
+4. Knowledge and hands-on experience with UI technologies like React.
+
+5. Strong knowledge of Unit Testing and implementation.
+
+6. In-depth understanding of Object-Oriented Programming (OOPS) concepts.
+
+7. Excellent aptitude, problem-solving attitude, and communication skills.
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+
+
+
+
+

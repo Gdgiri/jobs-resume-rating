@@ -1,0 +1,64 @@
+Infosys Hiring for Mean Stack Developer / Full Stack Developer Role!!
+
+Job Description: 
+
+Role: Mean Stack Developer / Full Stack Developer
+Experience: 3 - 8 Years
+Location: Bangalore,Karnataka
+
+Required Technical Skill Set
+
+1. JavaScript Frameworks: Proficient in Node.js, AngularJS, React.js with HTML5, CSS3, and Bootstrap.
+
+2. Backend Frameworks: Hands-on experience with major Node.js frameworks such as Sails.js, Express.js, etc.
+
+3. Database: Expertise in MongoDB, query optimization, and database administration.
+
+4. Version Control: Proficient in using Git for version control.
+
+5. Cloud Services: Knowledge of AWS Cloud Services.
+
+6. DevOps Tools: Experience using Docker for containerization.
+
+7. Desired Competencies
+
+Must Have:
+
+1. Strong hands-on development experience with various JS frameworks (Node.js, AngularJS, React.js).
+
+2. Good exposure to designing, building, and deploying RESTful APIs.
+
+3. Experience in MongoDB backend and query optimization.
+
+4. Proficiency in database management, including monitoring and performance optimization.
+
+5. Hands-on experience with Docker for containerized applications.
+
+Good to Have:
+
+1. Knowledge of other programming languages like Python.
+
+2. Experience in PHP projects (advantageous).
+
+3. Exposure to Agile Scrum Development.
+
+Additional Responsibilities:
+
+1. Understanding design principles and architecture fundamentals.
+
+2. Knowledge of performance engineering.
+
+3. Familiarity with quality processes and estimation techniques.
+
+4. Ability to translate functional and non-functional requirements into system requirements.
+
+5. Proficiency in designing and coding complex programs.
+
+6. Writing test cases and scenarios based on project specifications.
+
+7. Awareness of SDLC and Agile methodologies.
+
+8. Strong problem-solving skills, logical thinking, and the ability to collaborate effectively.
+
+9. Qualifications: Bachelor's Degree in Engineering or equivalent.
+
